@@ -1,5 +1,5 @@
 body {
-	background-image: url("irasshai.jpg");
+	background-image: url("../images/irasshai.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 
@@ -8,7 +8,7 @@ body {
 #box-home {
 	height: 900px;
 	width: 85%;
-	background-image: url(kumabkgd.jpg);
+	background-image: url("../images/kumabkgd.jpg");
 	display: block;
   margin: auto;
   margin-top: 80%;
@@ -19,7 +19,7 @@ body {
 #box-contact {
 	height: 1200px;
 	width: 85%;
-	background-image: url(kumabkgd.jpg);
+	background-image: url("../images/kumabkgd.jpg");
 	display: block;
   margin: auto;
   margin-top: 10%;
@@ -29,7 +29,7 @@ body {
 #box {
 	height: 900px;
 	width: 85%;
-	background-image: url(kumabkgd.jpg);
+	background-image: url("./images/kumabkgd.jpg");
 	display: block;
   margin: auto;
   margin-top: 10%;
