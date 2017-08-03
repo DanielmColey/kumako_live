@@ -26,10 +26,20 @@ body {
   margin-bottom: 20px;
 }
 
+/*#box-services {
+	height: 1200px;
+	width: 85%;
+	background-image: url("../images/kumabkgd.jpg");
+	display: block;
+  margin: auto;
+  margin-top: 10%;
+  margin-bottom: 20px;
+}*/
+
 #box {
 	height: 900px;
 	width: 85%;
-	background-image: url("./images/kumabkgd.jpg");
+	background-image: url("../images/kumabkgd.jpg");
 	display: block;
   margin: auto;
   margin-top: 10%;
