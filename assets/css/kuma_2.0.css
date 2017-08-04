@@ -207,9 +207,14 @@ body {
 
 /*about page*/
 
+/*#about-stuff .about_pic {
+	display: inline-block;
+	width: 80%;
+}
+
 .about_pic {
 	height: 20vw;
-	width: 40%;
+	width: 45%;
 	margin-left: 5vw;
 	margin-top: 5vw;
 }
@@ -230,12 +235,36 @@ body {
   column-count: 2;
 }
 
-#tagline {
+.tagline {
 	text-align: center;
 	font-size: 1.2vw;
 	font-family: 'Slabo 27px', sans-serif;
 	color: #5f3b14;
+}*/
+
+#about-pic {
+	width: 80%;
+	margin-left: 15%;
 }
+
+#about-top div {
+	display: inline-block;
+	width: 40%;
+	margin: 4%;
+	/*border: 2px dashed red;*/
+}
+
+#about-top p {
+	/*font-family: 'Slabo 27px', sans-serif;*/
+	font-size: 1.2vw;
+}
+
+#about-top h3 {
+	font-family: 'Slabo 27px', sans-serif;
+
+}
+
+
 
 /*portfolio*/
 
