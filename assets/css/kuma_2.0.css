@@ -17,7 +17,7 @@ body {
 }
 
 #box-contact {
-	height: 1200px;
+	height: 1750px;
 	width: 85%;
 	background-image: url("../images/kumabkgd.jpg");
 	display: block;
@@ -319,6 +319,21 @@ body {
 
 /*contact*/
 
+#contact-content div {
+	display: inline-block;
+	text-align: center;
+	margin: 10%;
+}
+
+#contact-content {
+	text-align: center;
+}
+
+#contact-content p {
+	font-size: 2.2vw;
+	color: #5f3b14;
+}
+
 #form-wrap {
 	margin: 0% 10% 0% 25%;
 }
@@ -333,49 +348,55 @@ form p {
     padding: 8px 5px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 2px solid #f05848;
     border-radius: 4px;
     font-size: 1.2em;
 }
 .text-2 {
-    width: 220px;
+    width: 100%;
     padding: 8px 5px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 2px solid #f05848;
     border-radius: 4px;
     font-size: 1.2em;
 }
 
 select {
-    width: 350px;
+    width: 50%;
     padding: 50px 20px;
     border: none;
     border-radius: 4px;
-    background-color: #f1f1f1;
+    background-color: #f05848;
     font-size: 1.2em;
+    color: white;
 }
 
 textarea {
-    width: 80%;
+    width: 90%;
     height: 150px;
     padding: 5px 5px;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 2px solid #f05848;
     border-radius: 4px;
     resize: none;
     font-size: 1.2em;
 }
 
 input[type=button], input[type=submit], input[type=reset] {
-    background-color: #f05848;
-    border: none;
-    color: white;
+    background-color: white;
+    border: 2px solid #f05848;
+    color: #5f3b14;
     padding: 16px 32px;
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 5px;
+    font-size: 1.3em;
+}
+
+form p {
+	font-size: 1.5em;
 }
 
 .side-by-side div {
@@ -385,7 +406,7 @@ input[type=button], input[type=submit], input[type=reset] {
 
 @media only screen and (max-width: 1130px) {
 
-body {
+/*body {
 	background-color: #dab527;
 }
 
@@ -470,7 +491,7 @@ body {
 	font-size: 1em;
 	font-family: 'Slabo 27px', sans-serif;
 	color: #5f3b14;
-}
+}*/
 
 /*about page*/
 
@@ -501,7 +522,7 @@ body {
 
 /*portfolio*/
 
-#spacer {
+/*#spacer {
 	height: 50px;
 	width: 100%;
 }
@@ -527,7 +548,7 @@ body {
 
 /*Prices*/
 
-#prices_deal {
+/*#prices_deal {
 	width: 90%;
 	height: 100px;
 	border: 2px dashed #5f3b14;
@@ -543,7 +564,7 @@ body {
 	margin-top: 30px;
 }
 
-/*contact*/
+contact
 
 #box {
 	height: 1400px;
@@ -563,4 +584,4 @@ content .contact_info {
 	height: 600px;
 	width: 100%;
 }
-
+ */
