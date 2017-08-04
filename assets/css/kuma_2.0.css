@@ -55,58 +55,58 @@ body {
 }
 
 #nav-bar {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	width: 83%;
-	height: 4vw;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-width: thin;
-	border-color: #f05848; 
-	margin-left: 2%;
-	padding: 0 5% 0 8%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 83%;
+    height: 4vw;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: thin;
+    border-color: #f05848; 
+    margin-left: 2%;
+    padding: 0 5% 0 8%;
 }
 
 #port-nav-bar {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	margin-left: 25%;
-	padding-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    padding-left: 5%;
 }
 
 #nav-bar a {
-	text-decoration: none;
-	padding-left: 15%;
-	font-size: 2vw;
-	font-family: 'Playfair Display', serif;
-	color: #5f3b14;
+    text-decoration: none;
+    padding-left: 15%;
+    font-size: 2vw;
+    font-family: 'Playfair Display', serif;
+    color: #5f3b14;
 }
 
 #nav-bar a.active {
-	color: #f05848;
+    color: #f05848;
 }
 
 #port-nav-bar a {
-	text-decoration: none;
-	margin: 0px 8% 0px 0px;
-	padding-left: 5%;
-	font-size: 1.8em;
-	font-family: 'Playfair Display', serif;
-	color: #5f3b14;
-	margin-top: 5px;
-	margin-bottom: 5px;
+    text-decoration: none;
+    margin: 0px 8% 0px 0px;
+    padding-left: 5%;
+    font-size: 1.8em;
+    font-family: 'Playfair Display', serif;
+    color: #5f3b14;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 #port-nav-bar a.active {
-	color: #f05848;
+    color: #f05848;
 }
 
 #nav-bar a:hover {
-	color: #f05848;
+    color: #f05848;
 }
 
 /*.line {
@@ -193,7 +193,7 @@ body {
 	background-color: white;
 	margin: auto;
 	text-align: center;
-	border: 2px dashed red;
+	/*border: 2px dashed red;*/
 	margin-top: 5%;
 }
 
