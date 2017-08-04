@@ -68,7 +68,6 @@ body {
 }
 
 #port-nav-bar {
-<<<<<<< HEAD
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -89,22 +88,6 @@ body {
 	font-size: 2vw;
 	font-family: 'Playfair Display', serif;
 	color: #5f3b14;
-=======
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin-left: 25%;
-    padding-left: 5%;
-}
-
-#nav-bar a {
-    text-decoration: none;
-    padding-left: 15%;
-    font-size: 2vw;
-    font-family: 'Playfair Display', serif;
-    color: #5f3b14;
->>>>>>> 1625321099c3fbc6bdfc964f2b624e3e842a7359
 }
 
 #nav-bar a.active {
@@ -112,23 +95,12 @@ body {
 }
 
 #port-nav-bar a {
-<<<<<<< HEAD
 	text-decoration: none;
 	margin: 0px 4% 0px 0px;
 	padding-left: 8%;
 	font-size: 2vw;
 	font-family: 'Playfair Display', serif;
 	color: #5f3b14;
-=======
-    text-decoration: none;
-    margin: 0px 8% 0px 0px;
-    padding-left: 5%;
-    font-size: 1.8em;
-    font-family: 'Playfair Display', serif;
-    color: #5f3b14;
-    margin-top: 5px;
-    margin-bottom: 5px;
->>>>>>> 1625321099c3fbc6bdfc964f2b624e3e842a7359
 }
 
 #port-nav-bar a.active {
@@ -390,7 +362,7 @@ body {
 }
 
 form p {
-	font-size: 1.5vw
+	font-size: 1.5vw;
 	font-family: 'Slabo 27px', sans-serif;
 	color: #5f3b14; 
 }
