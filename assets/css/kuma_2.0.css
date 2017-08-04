@@ -24,6 +24,7 @@ body {
   margin: auto;
   margin-top: 10%;
   margin-bottom: 20px;
+  /*border: 2px dashed red;*/
 }
 
 #box {
@@ -44,6 +45,7 @@ body {
   margin: auto;
   margin-top: 10%;
   margin-bottom: 10%;
+  /*border: 2px dashed red;*/
 
 }
 
@@ -162,8 +164,8 @@ body {
 	margin-top: 50px;
 }
 
-.footer-box {
-	height: 70px;
+/*.footer-box {
+	height: 10%;
 	width: 85%;
 	background-color: white;
 	display: block;
@@ -183,6 +185,24 @@ body {
 	font-size: 1em;
 	font-family: 'Slabo 27px', sans-serif;
 	color: #5f3b14;
+}*/
+
+.footer-box {
+	height: 10%;
+	width: 85%;
+	background-color: white;
+	margin: auto;
+	text-align: center;
+	border: 2px dashed red;
+	margin-top: 5%;
+}
+
+.footer-box a {
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Slabo 27px', sans-serif;
+	color: #5f3b14;
+	margin: 2% 5%;
 }
 
 /*about page*/
