@@ -129,7 +129,7 @@ body {
 	color: #5f3b14;
 	height: 20vw;
 	width: 40vw;
-	font-family: 'Slabo 27px', sans-serif;
+	font-family: 'Playfair Display', serif;
 	-webkit-column-count: 2; 
     -moz-column-count: 2; 
     column-count: 2;
@@ -152,7 +152,7 @@ body {
 
 #moto {
 	font-size: 2vw;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Playfair Display', serif;
 	color: #5f3b14;
 	margin-left: 5vw;
 }
@@ -243,7 +243,8 @@ body {
 }*/
 
 #about-pic {
-	width: 80%;
+	width: 90%;
+	height: 20vw;
 	margin-left: 15%;
 }
 
@@ -251,17 +252,47 @@ body {
 	display: inline-block;
 	width: 40%;
 	margin: 4%;
-	/*border: 2px dashed red;*/
 }
 
 #about-top p {
-	/*font-family: 'Slabo 27px', sans-serif;*/
+	font-family: 'Playfair Display', serif;
 	font-size: 1.2vw;
+	color: #5f3b14;
+	padding-left: 5%;
 }
 
-#about-top h3 {
-	font-family: 'Slabo 27px', sans-serif;
+#about-top h2 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 2vw;
+	font-weight: lighter;
+	color: #5f3b14;
+}
 
+#about1 p {
+	font-size: 1.2vw;
+	font-family: 'Playfair Display', serif;
+	text-align: left;
+	color: #5f3b14;
+	padding: 0 10% 2% 10%;
+}
+
+#about2 p {
+	font-size: 2vw;
+	color: #5f3b14;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 25%; 
+}
+
+#about2 strong {
+	padding-left: 5%;
+}
+
+#about4 p {
+	font-size: 2vw;
+	color: #5f3b14;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 27%;
+	padding-bottom: 5%;
 }
 
 
