@@ -302,6 +302,7 @@ body {
 	display: inline-block;
 	width: 25%;
 	height: 15vw;
+	margin-left: 2%;
 	text-align: center;
 	border: .5vw solid #f05848;
 	border-radius: 2vw;
