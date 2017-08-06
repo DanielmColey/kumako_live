@@ -1,12 +1,17 @@
 body {
-	background-image: url("../images/irasshai.jpg");
+	background-image: url("../images/heya2.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 
 }
 
+#welcome-home {
+	height: 70vw;
+	margin-bottom: -30%
+}
+
 #box-home {
-	height: 80%;
+	height: 85%;
 	width: 85%;
 	background-image: url("../images/kumabkgd.jpg");
 	display: block;
@@ -48,7 +53,7 @@ body {
 }
 
 #logo {
-	width: 300px;
+	width: 270px;
 	margin: 20px 0px 0px 30px;
 }
 
@@ -133,7 +138,7 @@ body {
 	-webkit-column-count: 2; 
     -moz-column-count: 2; 
     column-count: 2;
-  font-size: 1.3vw;
+  font-size: 1.2vw;
 }
 
 #pic-home-1 {
@@ -141,13 +146,14 @@ body {
 }
 
 #pic-size-1 {
-	height: 20vw;
+	height: 29vw;
 	width: 24vw;
 }
 
 #pic-home-2 img {
 	height: 15vw;
-	width: 25vw;
+	width: 35vw;
+	margin-bottom: 10vw;
 }
 
 #moto {
